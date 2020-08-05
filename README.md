@@ -11,7 +11,7 @@ You will need python3 and:
 ```bash
 pip3 install pyautogui pynput
 ```
-On Windows replace `pip3` with `pip`.
+You may have to replace `pip3` with `pip` depending on your OS.
 
 Enjoy!
 
